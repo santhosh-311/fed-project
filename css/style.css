@@ -25,7 +25,8 @@
     font-size: 30px;
 }
 .img-fluid {
-    border-radius: 50%;
+    width: 250px ;
+    border-radius: 20px;
 }
 .img-fluid:hover {
     cursor: pointer;
